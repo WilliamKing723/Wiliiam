@@ -1,0 +1,38 @@
+body{
+	position: relative;
+	background-attachment : fixed;
+	
+}
+
+p {
+  font-size: 24px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: black;
+  
+}
+
+.Introduction{
+	text-align:center;
+	font-size:60px;
+	
+}
+.img1{
+	float: right;
+	position: absolute;
+	left: 60%;
+
+}
+
+lol {
+    color:blue;
+}
+
+poe {
+    color: blue;
+}
+
+.family{
+	font-size: 24px;
+    color: yellow;
+}
